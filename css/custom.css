@@ -1,0 +1,21 @@
+.slides section .logo {
+	   width: 300px;
+	   background: 0;
+	   border: 0;
+	   box-shadow: none;
+}
+
+.reveal a {
+	color: white;
+}
+
+.reveal h3 {
+	  text-transform: none;
+	  font-family: "Lato", sans-serif;
+}
+
+.reveal pre {
+	padding: 10px;
+	background-color: #222;
+	box-shadow: 0px 0px 6px rgba(126, 220, 200, 0.3);
+}
