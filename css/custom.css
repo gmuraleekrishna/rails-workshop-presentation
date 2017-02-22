@@ -5,8 +5,22 @@
 	   box-shadow: none;
 }
 
+.slides section .image {
+	width: 485px;
+}
+
+.slides section .image.small {
+	width: 700px;
+    height: 150px;
+}
+
 .reveal a {
 	color: white;
+}
+
+emp {
+	background: #555;
+    padding: 3px;
 }
 
 .reveal h3 {
