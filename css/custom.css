@@ -29,7 +29,23 @@ emp {
 }
 
 .reveal pre {
-	padding: 10px;
-	background-color: #222;
-	box-shadow: 0px 0px 6px rgba(126, 220, 200, 0.3);
+	margin-top: 0px;
+	box-shadow: none;
+}
+
+.reveal pre code {
+	padding: 0px 25px;
+}
+
+.reveal .file-path {
+	box-shadow: none;
+	position: relative;
+    width: 90%;
+    margin: 20px auto;
+    text-align: left;
+    font-size: 20px;
+    font-family: monospace;
+    line-height: 1.2em;
+    word-wrap: break-word;
+    margin-bottom: -15px;
 }
